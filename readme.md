@@ -22,3 +22,9 @@
 ## GPT-3(ChatGPT)とは？
 
 OpenAIが開発している自然に会話できるAI。コーディングの壁打ちなどに適しています。
+
+## 参考
+
+- https://dev.classmethod.jp/articles/lambda-get-paramater/
+- https://dev.classmethod.jp/articles/chatgpt-line-chat-bot/
+- https://dev.classmethod.jp/articles/lambda-line-bot-tutorial/
